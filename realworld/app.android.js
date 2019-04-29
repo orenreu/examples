@@ -96,4 +96,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('realworld', () => App);
+export default App;
